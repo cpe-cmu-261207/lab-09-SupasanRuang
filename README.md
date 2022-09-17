@@ -19,4 +19,4 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-lab-9-Supasan.surge.sh
+(https://lab-9-supasan.surge.sh/)
